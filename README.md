@@ -1,6 +1,6 @@
 # Me
 记录我所享受的每一刻跑步[时光](https://run.zuoguai.xyz)
-
+（采用vercel部署）
 
 
 
