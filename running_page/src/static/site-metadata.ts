@@ -10,18 +10,18 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: '作怪的 轨迹',
-  siteUrl: 'https://run.zuoguai.xyz',
+  siteTitle: '世界末日',
+  siteUrl: 'https://zuoguai.git.io',
   logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
-  description: '天生我材必有用',
+  description: 'Personal site and blog',
   navLinks: [
     {
-      name: '作怪',
+      name: 'Blog',
       url: 'https://zuoguai.github.io',
     },
     {
-      name: 'github',
-      url: 'https://github.com/zuoguai',
+      name: 'About',
+      url: 'https://baidu.com',
     },
   ],
 };
